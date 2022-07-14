@@ -1,10 +1,10 @@
 ### Olá, sou Priscila Teodório :)
 
-💻 Compartilho estudos, dicas de computação e programação, sobre carreira e sobre tecnologias no instagram @tech.pril
-
 📚 Estudo ciência da computação na Universidade Federal de Alagoas - UFAL.
 
 💻 Atualmente trabalhando como estagiária na SEPLAG/AL.
+
+💻 Compartilho estudos, dicas de computação e programação, sobre carreira e sobre tecnologias no instagram @tech.pril
 
 <div align="center">
   <a href="https://github.com/techpril">
