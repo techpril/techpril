@@ -2,7 +2,7 @@
 
 📚 Cursanso mestrado em Ciência da Computação na Universidade Federal de Alagoas.
 
-💻 Tenho conhecimento em: HTML, CSS, SASS, Bootstrap, JavaScript, React, Typescript, GIT, PHP, Laravel, MySQL, Python e WordPress.
+💻 Tenho conhecimento em: HTML, CSS, SASS, Bootstrap, Tailwind, JavaScript, React, Typescript, GIT, PHP, Laravel, MySQL, Python e WordPress.
 
 <div align="center">
   <a href="https://github.com/techpril">
