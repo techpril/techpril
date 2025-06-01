@@ -1,8 +1,8 @@
 ### Olá, sou Priscila Teodório :)
 
-📚 Estudo ciência da computação na Universidade Federal de Alagoas - UFAL.
+📚 Cursanso mestrado em Ciência da Computação na Universidade Federal de Alagoas.
 
-💻 Compartilho estudos, dicas de computação e programação, sobre carreira e sobre tecnologias no instagram @tech.pril
+💻 Tenho conhecimento em: HTML, CSS, SASS, Bootstrap, JavaScript, React, Typescript, GIT, PHP, Laravel, MySQL, Python e WordPress.
 
 <div align="center">
   <a href="https://github.com/techpril">
