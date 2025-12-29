@@ -1,6 +1,6 @@
 ### Olá, sou Priscila Teodório :)
 
-📚 Cursanso mestrado em Ciência da Computação na Universidade Federal de Alagoas.
+📚 Cursando mestrado em Ciência da Computação na Universidade Federal de Alagoas.
 
 💻 Tenho conhecimento em: HTML, CSS, SASS, Bootstrap, Tailwind, JavaScript, React, Typescript, GIT, PHP, Laravel, MySQL, Python e WordPress.
 
